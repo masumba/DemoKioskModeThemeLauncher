@@ -1,4 +1,4 @@
-package com.goon.demo.demothemelauncher;
+package com.goon.demo.demothemelauncher.LauncherClasses;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

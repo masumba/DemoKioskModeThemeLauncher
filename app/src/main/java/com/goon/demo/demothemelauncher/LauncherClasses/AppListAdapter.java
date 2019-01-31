@@ -1,4 +1,4 @@
-package com.goon.demo.demothemelauncher;
+package com.goon.demo.demothemelauncher.LauncherClasses;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.goon.demo.demothemelauncher.R;
 
 import java.util.ArrayList;
 import java.util.Collection;

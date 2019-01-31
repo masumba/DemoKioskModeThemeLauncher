@@ -1,4 +1,4 @@
-package com.goon.demo.demothemelauncher;
+package com.goon.demo.demothemelauncher.LauncherClasses;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
